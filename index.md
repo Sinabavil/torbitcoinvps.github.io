@@ -17,6 +17,7 @@ ISP | $ [^1][^2] | $/Y [^1][^3] | Exit [^1][^4]
 [linevast.de](https://linevast.de) | $9 | $94 | False
 [lunanode.com](https://lunanode.com) | $4 | $49 | False
 [mivocloud.com](https://mivocloud.com) | $6 | $59 | False
+[monovm.com](https://monovm.com) | $5.45 | $35 | False
 [orangewebsite.com](https://orangewebsite.com) | $35 | $318 | Unknown
 [pulseservers.com](https://pulseservers.com) | $10 | $120 | True
 [ramnode.com](https://ramnode.com) | $3 | $15 | False
